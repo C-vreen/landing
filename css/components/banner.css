@@ -1,0 +1,32 @@
+.banner{
+  background-image: url('../../images/background.png');
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.container {
+  width: 1000px;
+  margin: auto;
+}
+
+.container h1 {
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.container p{
+  font-family: Tenor Sans, sans-serif;
+  color: white;
+  font-size: 20px;
+}
+
+.btn-green {
+  background-color: #1EDD88;
+  display: inline-block;
+  border-radius: 28px;
+  color: white;
+  padding: 15px 30px;
+  text-decoration: none;
+}
